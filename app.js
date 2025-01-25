@@ -13,7 +13,7 @@ function agregarAmigo() {
     // Limpiar la variable de ingreso
         input.value = '';
     } else {
-        alert('Debes escribir un nombre al menos un nombre');
+        alert('Debes escribir un nombre al menos ');
     }
     // posicionar cursor en campo de entrada
     input.focus();
